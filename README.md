@@ -3,7 +3,7 @@ Implementation for several chapters of book "Data Pipelines with Apache Airflow"
 
 # Usage
 - Within each folder execute the docker-compose.yaml files.
-- Open Airflow UI: http://localhost:8080
+- Open Airflow UI: http://localhost:8080 (Username/password: admin)
 - Trigger and inspect all DAGs via UI
 
 ![Alt text](9781617296901-124220258.png)
